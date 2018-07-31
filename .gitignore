@@ -21,3 +21,24 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+/A1/lab4.2/olamundo-web/target/*
+/A1/lab5/simpleproject/target/*
+/A1/lab4.2/olamundo-web/.settings/*
+/A1/lab5/simpleproject/.svn/*
+/A1/lab4.2/olamundo-business/target/*
+/A1/lab4.2/olamundo-business/.settings/*
+/A1/lab4.3/target/*
+/A1/lab6.11/target/*
+/A1/lab5/simpleproject/.settings/*
+/A1/lab6/lab6/.svn/*
+/A1/lab6/lab6/target/*
+/A1/lab6/lab6/.settings/*
+/A1/lab6Test/lab6.web.test/target/*
+/A1/lab9/AA1/junit/projeto-mock/prototipo-core-jpa/.svn/*
+/A2/lab01/target/*
+/A1/lab9/AA1/junit/projeto-mock/prototipo-core-jpa/target/*
+/A2/lab03/.settings/*
+/A*/*/.settings/*
+/A1/lab6Test/lab6.web.test/.settings/*
+/A2/patternsExemploVisitor/target/*

@@ -1,0 +1,8 @@
+mvn archetype:generate
+
+
+ou
+
+
+mvn archetype:generate -DgroupId=com.globalcode -DartifactId=lab1 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=true
+

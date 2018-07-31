@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Trabalho">
+            <file>file:/C:/Projetos/Globalcode/IDP33/labs/lab03/src/br/com/globalcode/command/BaseCommand.java</file>
+            <file>file:/C:/Projetos/Globalcode/IDP33/labs/lab03/src/br/com/globalcode/command/EnviarPorEMail.java</file>
+            <file>file:/C:/Projetos/Globalcode/IDP33/labs/lab03/src/br/com/globalcode/command/ExcluirPedido.java</file>
+            <file>file:/C:/Projetos/Globalcode/IDP33/labs/lab03/src/br/com/globalcode/command/GerarPDF.java</file>
+            <file>file:/C:/Projetos/Globalcode/IDP33/labs/lab03/src/br/com/globalcode/command/NovoPedido.java</file>
+            <file>file:/C:/Projetos/Globalcode/IDP33/labs/lab03/src/br/com/globalcode/factory/CommandFactory.java</file>
+            <file>file:/C:/Projetos/Globalcode/IDP33/labs/lab03/src/br/com/globalcode/factory/CommandFactory1.java</file>
+            <file>file:/C:/Projetos/Globalcode/IDP33/labs/lab03/src/br/com/globalcode/factory/CommandFactory2.java</file>
+            <file>file:/C:/Projetos/Globalcode/IDP33/labs/lab03/src/br/com/globalcode/factory/CommandFactoryLogged.java</file>
+            <file>file:/C:/Projetos/Globalcode/IDP33/labs/lab03/src/br/com/globalcode/factory/CommandFactoryVisitor.java</file>
+            <file>file:/C:/Projetos/Globalcode/IDP33/labs/lab03/src/br/com/globalcode/factory/commands.properties</file>
+            <file>file:/C:/Projetos/Globalcode/IDP33/labs/lab03/src/br/com/globalcode/visitor/LogVisitor.java</file>
+            <file>file:/C:/Projetos/Globalcode/IDP33/labs/lab03/src/br/com/globalcode/visitor/Visitor.java</file>
+        </group>
+        <group/>
+    </open-files>
+</project-private>
